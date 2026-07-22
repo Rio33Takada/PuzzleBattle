@@ -1,0 +1,7 @@
+{
+  "name": "PuzzleBattle.Domain",
+  "rootNamespace": "PuzzleBattle.Domain",
+  "references": [],
+  "autoReferenced": false,
+  "noEngineReferences": true
+}

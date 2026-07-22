@@ -1,0 +1,9 @@
+{
+  "name": "PuzzleBattle.Presentation",
+  "rootNamespace": "PuzzleBattle.Presentation",
+  "references": [
+    "PuzzleBattle.Application",
+    "PuzzleBattle.Domain"
+  ],
+  "autoReferenced": false
+}

@@ -104,3 +104,11 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Credentials
+*.service-account.json
+service-account*.json
+credentials*.json
+.env
+.env.*
+!.env.example
